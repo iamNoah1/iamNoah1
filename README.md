@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
-<h3 align="center">A passionate creator</h3>
 
-- 🌱 I’m currently learning **Golang, about building communities and devrel**
+<div align="center">
 
-- 💬 Ask me about **Agile, DevOps, Cloud Native**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=8A35F7&center=true&lines=Impress+yourself;Do+what+you+love!)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+* 🌱 I’m currently learning **Golang, building communities and devrel**
+
+* 💬 Ask me about **Agile, DevOps, Cloud Native**
 
 ---
 
