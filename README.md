@@ -8,9 +8,7 @@
 
 ---
 
-* 🌱 I’m currently learning **Golang, building communities and devrel**
-
-* 💬 Ask me about **Agile, DevOps, Cloud Native**
+* 🌱 I’m currently interested in Golang, DevOps culture, Cloud Native and AI 
 
 ---
 
