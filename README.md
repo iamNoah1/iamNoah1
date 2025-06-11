@@ -21,10 +21,12 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnoah1&theme=tokyonight" alt="iamnoah1" /></p>
 
-<p align="center">[![DevStats Card](https://devstats.me/?username=iamNoah1)](https://github.com/tico88612/devstats-card)</p>
 
+<div align="center">
+  
+[![DevStats Card](https://devstats.me/?username=iamNoah1)](https://github.com/tico88612/devstats-card)
 
-
+</div>
 ---
 
 <h3 align="center">Get in touch:</h3>
