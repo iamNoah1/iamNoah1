@@ -27,6 +27,7 @@
 [![DevStats Card](https://devstats.me/?username=iamNoah1)](https://github.com/tico88612/devstats-card)
 
 </div>
+
 ---
 
 <h3 align="center">Get in touch:</h3>
